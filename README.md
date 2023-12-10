@@ -1,4 +1,4 @@
-# Fils conducteurs de la formation à Open Refine (Médiquitaine 16 et 30 novembre 2023)
+# Fils conducteurs de la formation à Open Refine (Médiaquitaine les 16 et 30 novembre 2023)
 
 Formation assurée par Sylvain Machefert et Alexandre Faure pour Médiquitaine.
 
