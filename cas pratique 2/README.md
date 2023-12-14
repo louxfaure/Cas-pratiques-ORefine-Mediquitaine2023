@@ -19,11 +19,11 @@ Créez le projet (3.)
 Regardez le contenu de la colonne *Numéro de notice*. Notre PPN est préfixé par la chaîne de caractère "(PPN)". Nous allons devoir nettoyer notre champ sinon le web service de l'ABES ne reconnaitra pas notre identifiant. Pour ce faire, il existe plusieurs méthodes. En voici quelques-unes. 
 #### 1.2.1 En utilsant la fonction remplacer
 Sous la colonne *Numéro de notice*, allez dans ``Editer les cellules`` et cliquez sur ``Remplacer``.
-![Ecran Remplacer](images/ORefine_Remplacer.png)
+![Ecran Remplacer](images/Orefine_Remplacer.png)
 Remplacez simplement la chaîne *"(PPN)"* par une chaîne vide. Laissez vide le champ ``Remplacer par :`` 
 #### 1.2.3 En transformant les données
 Sous la colonne *Numéro de notice*, allez dans ``Editer les cellules`` et cliquez sur ``Transformer...``
-![Ecran Remplacer](images/ORefine_Transformer.png)
+![Ecran Remplacer](images/Orefine_Transformer.png)
 Nous pouvons utiliser plusieurs formules pour nettoyer notre PPN.
 > 💡 **Astuce :** Aidez-vous de l'aperçu pour voir en temps réel l'effet de votre formule. 
 ##### Substring
