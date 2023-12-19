@@ -100,7 +100,7 @@ Si vous regardez la cellule disponibilité vous remarquez que chaque mention de 
 
 À partir de la colonne *Disponibilité*, allez dans ``Editer les cellules>Diviser les cellules multivaluées``
 
-![Editer les celulles>Diviser les celulles multivaluées](images/OpenRefine_Diviser_les-celulles.png)
+![Editer les celulles>Diviser les cellules multivaluées](images/OpenRefine_Diviser_les-celulles.png)
 
 Indiquez comme séparateur **\n** (1.) et indiquez qu'il s'agit d'une expression rationnelle (2.). Validez.
 
